@@ -27,8 +27,18 @@ REST
 
 
 5. Delivery
-A small write up in README walking through decisions, trade-offs and possible next steps
-A deployed demo (Vercel/Netlify/GitHub Pages)
+1. Create a new repository using the provided template OR fork the base repo.
+2. Push your complete solution to your GitHub repository.
+3. Share access with us (add as collaborator) OR share the repo link.
+4. Ensure commit history is meaningful (we evaluate this).
+5. README must include:
+   - Setup instructions
+   - Architecture decisions
+   - Trade-offs
+   - Future improvements
+
+
+
 
 Time
 2 Days: (≈ 6–8 focused hours total). We do not expect every pixel perfect; we expect thoughtful
